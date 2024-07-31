@@ -1,6 +1,12 @@
 {
   "name": "HOUSTON",
   "symbol": "HSTN",
+  "image": "https://raw.githubusercontent.com/w0terme10n/for-testing/main/gachi.webp",
   "description": "Get ready your ass",
-  "image": "https://raw.githubusercontent.com/w0terme10n/for-testing/main/gachi.webp"
+  "extensions": {},
+  "tags": [
+    "SOLANA",
+    "MEME"
+  ],
+  "creator": {}
 }
